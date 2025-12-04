@@ -3,4 +3,4 @@
 <p>Gereserveerd tot 1 december 2026!</p>
 <p></p>Voor ons tekentalent uit Leidsche Rijn</p>
 <br>
-Sint
+Sinterklaas
